@@ -1,0 +1,14 @@
+.body_background 
+{
+    background-image:url(Background\ GIF.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width:10px ;
+   background-image: new_image() ;
+   border-style: ridge ;
+   border-color: darkviolet;
+}
+
